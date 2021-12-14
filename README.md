@@ -5,10 +5,10 @@
  - [x] [Exercício 03 - Crie um programa que leia dois números e mostre a soma entre eles.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2003)
  - [x] [Exercício 04 - Faça um Programa que peça as 4 notas Bimestrais e mostre a Média.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2004)
  - [x] [Exercício 05 - Faça um Programa que converta metros em Centímetros.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2005)
--  [x]  [Exercício 6 - Faça um Programa que peça o Raio de um Círculo, calcule e mostre sua Área.]()
- - [x]  [Exercício 7 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta Área para o Usuário.]() 
- - [x]  [Exercício 8 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no Mês. Calcule e Mostre o total do seu salário no referido Mês.]()
- - [x] [Exercício 9 - Faça um Programa que Peça a temperatura em graus Farenheit,transforme e mostre a temperatura em Graus Celsius.]()
+-  [x]  [Exercício 6 - Faça um Programa que peça o Raio de um Círculo, calcule e mostre sua Área.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2006)
+ - [x]  [Exercício 7 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta Área para o Usuário.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2007) 
+ - [x]  [Exercício 8 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no Mês. Calcule e Mostre o total do seu salário no referido Mês.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2008)
+ - [x] [Exercício 9 - Faça um Programa que Peça a temperatura em graus Farenheit,transforme e mostre a temperatura em Graus Celsius.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2009)
  - [] [Exercício 10 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.]()
  - [] [Exercício 11 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: <br>
 -O produto do dobro do primeiro com metade do segundo .<br>
