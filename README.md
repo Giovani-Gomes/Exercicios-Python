@@ -15,7 +15,7 @@
 -A soma do triplo do primeiro com o terceiro. <br>
 -O terceiro elevado ao cubo.](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2011) 
 - [x] [Exercício 12 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (peso*altura)- 58](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2012)
-- [] [Exercício 13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br>
+- [x] [Exercício 13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br>
  Para homens: (72.7*h) - 58 <br>
  Para mulheres: (62.1*h) - 44.7](https://github.com/Giovani-Gomes/Exercicios-Python/tree/main/Exerc%C3%ADcio%2013)
  - [] [Exercício 14 - João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.]()
